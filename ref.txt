@@ -1,0 +1,49 @@
+Required Nuget Packages:
+
+AutoMapper.Extensions.Microsoft.DependencyInjection
+	https://www.nuget.org/packages/AutoMapper.Extensions.Microsoft.DependencyInjection/
+
+
+Microsoft.EntityFrameworkCore
+	https://www.nuget.org/packages/Microsoft.EntityFrameworkCore
+
+
+Microsoft.EntityFrameworkCore.Design
+	https://www.nuget.org/packages/Microsoft.EntityFrameworkCore.Design/
+
+
+Microsoft.EntityFrameworkCore.SqlServer
+	https://www.nuget.org/packages/Microsoft.EntityFrameworkCore.SqlServer/
+
+
+EFCore with SQL Queries
+	https://entityframeworkcore.com/knowledge-base/54468767/selecting-all-rows-based-on-a-distinct-column-in-entity-framework-core
+
+
+Howto build APIs in OPEN API Standard
+	https://api.ewingshub.com/swagger/index.html
+
+Git Repo
+	https://github.com/DInuwan97/Employee_API
+
+HTTP Request-Response Pipeline Article
+	https://medium.com/@dckalubowila25132/jwt-bearer-token-authentication-for-express-js-5e95bf4dead0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
